@@ -41,9 +41,9 @@ export default defineConfig({
       {
         text: '加入我们',
         items: [
-          { text: 'QQ群', link: 'https://jq.qq.com/?_wv=1027&k=6yh4O3h' },
+          { text: 'QQ群', link: '/' },
           { text: 'QQ频道', link: '/123' },
-          { text: '微信公众号', link: 'https://github.com/AerialLab/aerial' }
+          { text: '微信公众号', link: '/' }
         ]
       }
     ],
