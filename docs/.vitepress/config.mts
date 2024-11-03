@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/ac-framework-docs',
+  // base: '/ac-framework-docs',
   title: "AC Framework",
   description: "支持多账号、多平台高效、稳定、免费的机器人框架",
   lang: 'zh-CN',
