@@ -1,7 +1,8 @@
 ---
+prev: false
 next:
-  text: 快速开始
-  link: /framework/quick-start
+    text: 快速开始
+    link: /framework/quick-start
 ---
 # 概览
 

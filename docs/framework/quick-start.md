@@ -1,7 +1,7 @@
 ---
 prev:
-  text: 概览
-  link: /framework
+    text: 概览
+    link: /framework
 next: false
 ---
 # 快速开始
