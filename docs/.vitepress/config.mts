@@ -16,7 +16,7 @@ export default defineConfig({
     outlineTitle: '页面导航',
     lastUpdatedText: '最后更新于',
     editLink: {
-      pattern: 'https://github.com/ac-framework/ac-framework/edit/main/docs/:path',
+      pattern: 'https://github.com/munanshang/ac-framework-docs/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
     docFooter: {
