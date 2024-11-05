@@ -40,12 +40,12 @@ const partners = [
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>开发团队</template>
+    <template #title>开发成员</template>
     <template #lead>...</template>
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members="coreMembers" />
   <VPTeamPageSection>
-    <template #title>运营团队</template>
+    <template #title>核心成员</template>
     <template #lead>...</template>
     <template #members>
       <VPTeamMembers size="small" :members="partners" />
