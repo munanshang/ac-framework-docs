@@ -2,7 +2,7 @@
 prev:
   text: 概览
   link: /framework
-next: null
+next: false
 ---
 # 快速开始
 
