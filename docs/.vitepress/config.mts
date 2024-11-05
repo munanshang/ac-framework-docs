@@ -51,9 +51,9 @@ export default defineConfig({
       {
         text: '加入我们',
         items: [
-          { text: 'QQ群', link: '/' },
-          { text: 'QQ频道', link: '/123' },
-          { text: '微信公众号', link: '/' }
+          { text: 'QQ群', link: 'https://qm.qq.com/q/T22mhGkoWQ' },
+          { text: 'QQ频道', link: '...' },
+          { text: '微信公众号', link: '...' }
         ]
       }
     ],
