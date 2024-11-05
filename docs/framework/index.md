@@ -1,3 +1,8 @@
+---
+next:
+  text: 快速开始
+  link: /quick-start
+---
 # 概览
 
 AC Framework 是一款功能强大、稳定高效且易于使用的多平台机器人框架。
