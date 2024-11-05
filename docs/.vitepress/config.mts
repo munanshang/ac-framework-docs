@@ -7,6 +7,7 @@ export default defineConfig({
   description: "支持多账号、多平台高效、稳定、免费的机器人框架",
   lang: 'zh-CN',
   lastUpdated: true,
+  cleanUrls: true,
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/webp' }]
   ],
