@@ -66,11 +66,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '基础', link: '/dev/basic' },
-              { text: '事件', link: '/dev/event' },
-              { text: '消息', link: '/dev/message' },
-              { text: '群组', link: '/dev/group' },
-              { text: '好友', link: '/dev/friend' },
-              { text: '群成员', link: '/dev/member' },
+              { text: '事件', link: '/dev/event' }
             ]
           }
         ]
