@@ -13,6 +13,11 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.webp',
     siteTitle: '翱创框架',
+    outlineTitle: '页面导航',
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
     search: {
       provider: 'local',
       options: {
