@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  //base: '/ac-framework-docs',
+  // base: '/ac-framework-docs',
   title: "AC Framework",
   description: "支持多账号、多平台高效、稳定、免费的机器人框架",
   lang: 'zh-CN',
@@ -41,9 +41,9 @@ export default defineConfig({
       {
         text: '加入我们',
         items: [
-          { text: 'QQ群', link: '' },
-          { text: 'QQ频道', link: '' },
-          { text: '微信公众号', link: '' }
+          { text: 'QQ群', link: '/' },
+          { text: 'QQ频道', link: '/123' },
+          { text: '微信公众号', link: '/' }
         ]
       }
     ],
