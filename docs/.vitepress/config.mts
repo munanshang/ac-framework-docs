@@ -14,6 +14,11 @@ export default defineConfig({
     logo: '/logo.webp',
     siteTitle: '翱创框架',
     outlineTitle: '页面导航',
+    lastUpdatedText: '最后更新于',
+    editLink: {
+      pattern: 'https://github.com/ac-framework/ac-framework/edit/main/docs/:path',
+      text: '在 GitHub 上编辑此页'
+    },
     docFooter: {
       prev: '上一页',
       next: '下一页'
