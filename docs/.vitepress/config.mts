@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import customPlugin from './viteplugin'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -82,8 +81,5 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2019-2024 翱创框架'
     }
-  },
-  vite: {
-    plugins: [customPlugin()]
   }
 })
