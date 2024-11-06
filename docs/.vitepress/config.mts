@@ -8,7 +8,10 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   head: [
-    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/webp' }]
+    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/webp' }],
+    // 添加 51.la 的脚本
+    ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
+    ['script', {}, `LA.init({id:"KcaFSeikH95XOW2M",ck:"KcaFSeikH95XOW2M"});`],
   ],
   themeConfig: {
     logo: '/logo.webp',
