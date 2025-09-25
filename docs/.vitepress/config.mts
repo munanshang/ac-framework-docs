@@ -66,7 +66,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '概览', link: '/framework' },
-          { text: '快速开始', link: '/framework/quick-start' }
+          { text: '快速开始', link: '/framework/quick-start' },
         ]
       },
       {
