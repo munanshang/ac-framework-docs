@@ -16,7 +16,10 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.webp',
     siteTitle: '翱创框架',
-    outlineTitle: '页面导航',
+    outline: {
+      level: [2, 4],
+      label: '页面目录'
+    },
     lastUpdatedText: '最后更新于',
     editLink: {
       pattern: 'https://github.com/munanshang/ac-framework-docs/edit/main/docs/:path',
